@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'NunitoSans';
+  src: url('assets/fonts/NunitoSans-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
